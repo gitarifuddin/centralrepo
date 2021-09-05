@@ -1,0 +1,6 @@
+this is readme file used for declaration of the Git Status and code.
+Please check this is file if you want to know the details about the git commits and all
+thanks you
+Mohammed Arif
+Linux Git.
+
